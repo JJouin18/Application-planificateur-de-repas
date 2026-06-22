@@ -1,0 +1,7 @@
+.env
+database/
+config/
+Security.php
+
+# macOS
+.DS_Store

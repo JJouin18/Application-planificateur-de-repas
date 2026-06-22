@@ -1,0 +1,113 @@
+# File Tree: app
+
+**Generated:** 28/05/2026 10:19:16
+**Root Path:** `/Users/johanjouin/Tp_dev/Projet fin formation/Projet/app`
+
+```
+├── 📁 core
+│   ├── 🐘  Security.php
+│   └── 🐘 Database.php
+└── 📁 models
+    └── 📁 utlisateurs
+        ├── 📁 vendor
+        │   ├── 📁 composer
+        │   │   ├── 🐘 ClassLoader.php
+        │   │   ├── 🐘 InstalledVersions.php
+        │   │   ├── 📄 LICENSE
+        │   │   ├── 🐘 autoload_classmap.php
+        │   │   ├── 🐘 autoload_namespaces.php
+        │   │   ├── 🐘 autoload_psr4.php
+        │   │   ├── 🐘 autoload_real.php
+        │   │   ├── 🐘 autoload_static.php
+        │   │   ├── ⚙️ installed.json
+        │   │   ├── 🐘 installed.php
+        │   │   └── 🐘 platform_check.php
+        │   ├── 📁 phpmailer
+        │   │   └── 📁 phpmailer
+        │   │       ├── 📁 language
+        │   │       │   ├── 🐘 phpmailer.lang-af.php
+        │   │       │   ├── 🐘 phpmailer.lang-ar.php
+        │   │       │   ├── 🐘 phpmailer.lang-as.php
+        │   │       │   ├── 🐘 phpmailer.lang-az.php
+        │   │       │   ├── 🐘 phpmailer.lang-ba.php
+        │   │       │   ├── 🐘 phpmailer.lang-be.php
+        │   │       │   ├── 🐘 phpmailer.lang-bg.php
+        │   │       │   ├── 🐘 phpmailer.lang-bn.php
+        │   │       │   ├── 🐘 phpmailer.lang-ca.php
+        │   │       │   ├── 🐘 phpmailer.lang-cs.php
+        │   │       │   ├── 🐘 phpmailer.lang-da.php
+        │   │       │   ├── 🐘 phpmailer.lang-de.php
+        │   │       │   ├── 🐘 phpmailer.lang-el.php
+        │   │       │   ├── 🐘 phpmailer.lang-eo.php
+        │   │       │   ├── 🐘 phpmailer.lang-es.php
+        │   │       │   ├── 🐘 phpmailer.lang-et.php
+        │   │       │   ├── 🐘 phpmailer.lang-fa.php
+        │   │       │   ├── 🐘 phpmailer.lang-fi.php
+        │   │       │   ├── 🐘 phpmailer.lang-fo.php
+        │   │       │   ├── 🐘 phpmailer.lang-fr.php
+        │   │       │   ├── 🐘 phpmailer.lang-gl.php
+        │   │       │   ├── 🐘 phpmailer.lang-he.php
+        │   │       │   ├── 🐘 phpmailer.lang-hi.php
+        │   │       │   ├── 🐘 phpmailer.lang-hr.php
+        │   │       │   ├── 🐘 phpmailer.lang-hu.php
+        │   │       │   ├── 🐘 phpmailer.lang-hy.php
+        │   │       │   ├── 🐘 phpmailer.lang-id.php
+        │   │       │   ├── 🐘 phpmailer.lang-it.php
+        │   │       │   ├── 🐘 phpmailer.lang-ja.php
+        │   │       │   ├── 🐘 phpmailer.lang-ka.php
+        │   │       │   ├── 🐘 phpmailer.lang-ko.php
+        │   │       │   ├── 🐘 phpmailer.lang-ku.php
+        │   │       │   ├── 🐘 phpmailer.lang-lt.php
+        │   │       │   ├── 🐘 phpmailer.lang-lv.php
+        │   │       │   ├── 🐘 phpmailer.lang-mg.php
+        │   │       │   ├── 🐘 phpmailer.lang-mn.php
+        │   │       │   ├── 🐘 phpmailer.lang-ms.php
+        │   │       │   ├── 🐘 phpmailer.lang-nb.php
+        │   │       │   ├── 🐘 phpmailer.lang-nl.php
+        │   │       │   ├── 🐘 phpmailer.lang-pl.php
+        │   │       │   ├── 🐘 phpmailer.lang-pt.php
+        │   │       │   ├── 🐘 phpmailer.lang-pt_br.php
+        │   │       │   ├── 🐘 phpmailer.lang-ro.php
+        │   │       │   ├── 🐘 phpmailer.lang-ru.php
+        │   │       │   ├── 🐘 phpmailer.lang-si.php
+        │   │       │   ├── 🐘 phpmailer.lang-sk.php
+        │   │       │   ├── 🐘 phpmailer.lang-sl.php
+        │   │       │   ├── 🐘 phpmailer.lang-sr.php
+        │   │       │   ├── 🐘 phpmailer.lang-sr_latn.php
+        │   │       │   ├── 🐘 phpmailer.lang-sv.php
+        │   │       │   ├── 🐘 phpmailer.lang-tl.php
+        │   │       │   ├── 🐘 phpmailer.lang-tr.php
+        │   │       │   ├── 🐘 phpmailer.lang-uk.php
+        │   │       │   ├── 🐘 phpmailer.lang-ur.php
+        │   │       │   ├── 🐘 phpmailer.lang-vi.php
+        │   │       │   ├── 🐘 phpmailer.lang-zh.php
+        │   │       │   └── 🐘 phpmailer.lang-zh_cn.php
+        │   │       ├── 📁 src
+        │   │       │   ├── 🐘 DSNConfigurator.php
+        │   │       │   ├── 🐘 Exception.php
+        │   │       │   ├── 🐘 OAuth.php
+        │   │       │   ├── 🐘 OAuthTokenProvider.php
+        │   │       │   ├── 🐘 PHPMailer.php
+        │   │       │   ├── 🐘 POP3.php
+        │   │       │   └── 🐘 SMTP.php
+        │   │       ├── 📄 COMMITMENT
+        │   │       ├── 📄 LICENSE
+        │   │       ├── 📝 README.md
+        │   │       ├── 📝 SECURITY.md
+        │   │       ├── 📝 SMTPUTF8.md
+        │   │       ├── 📄 VERSION
+        │   │       ├── ⚙️ composer.json
+        │   │       └── 🐘 get_oauth_token.php
+        │   └── 🐘 autoload.php
+        ├── 🐘 class.utilisateur.php
+        ├── ⚙️ composer.json
+        ├── 🐘 config.php
+        ├── 🐘 connexion.php
+        ├── 🐘 index.php
+        ├── 🐘 inscription.php
+        └── 🐘 verifier.php
+```
+
+---
+
+_Generated by FileTree Pro Extension_
